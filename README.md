@@ -12,7 +12,7 @@ Build a tiny React task manager that shows how to update arrays and objects in s
 
 Clone the repo and run the project:
 
-`git clone https://github.com/your-username/task-manager-app.git`
+`git clone https://github.com/AD-340/task-manager-app.git`
 
 `cd task-manager-app`
 
